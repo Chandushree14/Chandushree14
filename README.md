@@ -1,5 +1,5 @@
 
-💫 About Me:
+
 "Hi there! I'm Chandu shree, a curious and passionate Computer Science and Engineering student at Gopalan college of engineering and management. I'm currently in my second year of study and excited to share my projects and collaborations with the world.<br><br>I'm eager to connect with fellow developers, learn from their experiences, and contribute to open-source projects. Let's collaborate and create somethin amazing!<br><br>You can find me on:<br><br>- LinkedIn:https://www.linkedin.com/in/chandushree-ds-6b1406295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>- Instagram:https://www.instagram.com/_shree.c_07/profilecard/?igsh=azh4MTk1dGlxOHhm
 
 
