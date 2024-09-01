@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+💫 About Me:
 "Hi there! I'm Chandu shree, a curious and passionate Computer Science and Engineering student at Gopalan college of engineering and management. I'm currently in my second year of study and excited to share my projects and collaborations with the world.<br><br>I'm eager to connect with fellow developers, learn from their experiences, and contribute to open-source projects. Let's collaborate and create somethin amazing!<br><br>You can find me on:<br><br>- LinkedIn:https://www.linkedin.com/in/chandushree-ds-6b1406295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>- Instagram:https://www.instagram.com/_shree.c_07/profilecard/?igsh=azh4MTk1dGlxOHhm
 
 
@@ -11,9 +11,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chandushree14 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chandushree14 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandushree14 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Chandushree14 &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
